@@ -45,11 +45,13 @@ python main.py
 
 
 # 5. 📁 **Folder Structure
+```bash
 link-grabber/
 ├── LICENSE.txt       # MIT License
 ├── README.md         # This documentation
 ├── main.py           # Main script (40KB)
 └── requirements.txt  # Dependencies (see below)
+```
 
 # 6. 🛠 **Built With**
 🔹 **External Libraries**  
