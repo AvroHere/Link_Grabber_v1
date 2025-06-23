@@ -85,8 +85,6 @@ A: Yes! Modify `MAX_THREADS` in main.py (balance speed vs. server load).
 MIT License  
 Copyright (c) 2025 AvroHere  
 
-Permission is hereby granted... [Full text in LICENSE.txt]
-
 
 # 10. 👨‍💻 **Author**
 **Avro**  
